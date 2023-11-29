@@ -10,7 +10,7 @@ env:
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 9cb40bd6-4cb3-41c3-8e3b-15b6fda53c92
 
-  WEBAPP-NAME: WEBAPP-onshop
+  WEBAPP-NAME: Training
 
 
 jobs:
